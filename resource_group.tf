@@ -10,4 +10,8 @@ resource "azurerm_resource_group" "rg1" {
   name     = "task1"
   location = "eastus"
 
+    resource "azurerm_resource_group" "task2" {
+  name     = "task2"
+  location = "eastus"
+
 }
