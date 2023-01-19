@@ -6,4 +6,8 @@ resource "azurerm_resource_group" "rg1" {
   name     = "devopsb27megastar"
   location = "eastus"
 
+  resource "azurerm_resource_group" "superstar" {
+  name     = "devopsb27superstar"
+  location = "eastus"
+
 }
