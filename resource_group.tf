@@ -20,5 +20,4 @@ resource "azurerm_resource_group" "rg1" {
 
   change1 megastar
   change2 superstar
-  change3 powerstar
 }
