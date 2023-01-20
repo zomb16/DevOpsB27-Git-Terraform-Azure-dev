@@ -18,8 +18,4 @@ resource "azurerm_resource_group" "rg1" {
   name     = "task3"
   location = "eastus"
 
-  change1 megastar
-  change2 superstar
-
-  main branch
 }
