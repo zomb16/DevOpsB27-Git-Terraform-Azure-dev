@@ -19,4 +19,5 @@ resource "azurerm_resource_group" "rg1" {
   location = "eastus"
 
   change1 megastar
+  change2 superstar
 }
