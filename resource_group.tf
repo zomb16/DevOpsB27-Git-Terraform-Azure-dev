@@ -18,5 +18,5 @@ resource "azurerm_resource_group" "rg1" {
   name     = "devopsb27superstar"
 >>>>>>> 2492f85c50fcee415375f863f5034141e077ea8b
   location = "eastus"
-
+Added Megaramesh
 }
